@@ -1,1 +1,1 @@
-web: java -jar target/syscav-1.0.jar
+web: java -jar target/syscav-0.0.1-SNAPSHOT.jar
