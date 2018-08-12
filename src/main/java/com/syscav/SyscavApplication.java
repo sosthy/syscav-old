@@ -1,4 +1,4 @@
-package com.syscav.starter;
+package com.syscav;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
